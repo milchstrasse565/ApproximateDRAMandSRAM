@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/lmk/ApproximateDRAMandSRAM/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++2a -o CMakeFiles/main.dir/DRAMandSRAM.cpp.o -c /home/lmk/ApproximateDRAMandSRAM/DRAMandSRAM.cpp",
+  "file": "/home/lmk/ApproximateDRAMandSRAM/DRAMandSRAM.cpp"
+},
+{
+  "directory": "/home/lmk/ApproximateDRAMandSRAM/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++2a -o CMakeFiles/main.dir/main.cpp.o -c /home/lmk/ApproximateDRAMandSRAM/main.cpp",
+  "file": "/home/lmk/ApproximateDRAMandSRAM/main.cpp"
+},
+{
+  "directory": "/home/lmk/ApproximateDRAMandSRAM/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++2a -o CMakeFiles/main.dir/outputQualityEvaluate.cpp.o -c /home/lmk/ApproximateDRAMandSRAM/outputQualityEvaluate.cpp",
+  "file": "/home/lmk/ApproximateDRAMandSRAM/outputQualityEvaluate.cpp"
+},
+{
+  "directory": "/home/lmk/ApproximateDRAMandSRAM/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++2a -o CMakeFiles/main.dir/runApproximateStorage.cpp.o -c /home/lmk/ApproximateDRAMandSRAM/runApproximateStorage.cpp",
+  "file": "/home/lmk/ApproximateDRAMandSRAM/runApproximateStorage.cpp"
+},
+{
+  "directory": "/home/lmk/ApproximateDRAMandSRAM/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++2a -o CMakeFiles/main.dir/vddReduction.cpp.o -c /home/lmk/ApproximateDRAMandSRAM/vddReduction.cpp",
+  "file": "/home/lmk/ApproximateDRAMandSRAM/vddReduction.cpp"
+}
+]
